@@ -1,0 +1,12 @@
+﻿Build started 18/03/2015 10:53:53 PM.
+     1>Project "D:\Projects\mayaPlugin\vsProject\vsProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.mll" /NOLOGO /LIBPATH:"C:\Program files\Autodesk\Maya2015\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Foundation.lib OpenMaya.lib OpenMayaUI.lib OpenMayaanim.lib OpenMayaFX.lib OpenMayaRender.lib Image.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.lib" /MACHINE:X64 /export:initializePlugin /export:uninitializePlugin /DLL x64\Debug\001_Hello_Dude.obj
+         x64\Debug\002_InitUninit.obj
+            Creating library D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.lib and object D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.exp
+         vsProject.vcxproj -> D:\Projects\mayaPlugin\vsProject\x64\Debug\vsProject.mll
+     1>Done Building Project "D:\Projects\mayaPlugin\vsProject\vsProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13
